@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtc98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtc98&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 nvtc98/nvtc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
