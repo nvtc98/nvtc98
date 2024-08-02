@@ -2,10 +2,6 @@ Hi, I'm Chương :3
 
 I'm a mobile developer using React Native.
 
-I am currently working at MangoAds.
-
-I graduated as an engineer from Saigon University, majoring in software engineering.
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtc98&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
