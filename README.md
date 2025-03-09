@@ -1,9 +1,9 @@
 I'm a mobile developer using React Native.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtc98&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtc98&layout=compact&theme=gruvbox&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvtc98)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvtc98&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 nvtc98/nvtc98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
