@@ -1,5 +1,3 @@
-Hi, I'm Chương :3
-
 I'm a mobile developer using React Native.
 
 
